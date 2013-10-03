@@ -1,5 +1,10 @@
 # Nanofactory
 
+## Prologue
+
+With the advent of NF machines, the world has fallen in to chaos. Humanity has gorged itself on materialistic excess and now has one hell of a hangover. Every home contains a Nanofactory after years of self replicating evolution from 3D printers, now the only prized possession is creativity itself. Yet to be manufactured, and highly sought after, a small group discover and keep to themselves the joy of individualism and pure ideas, however, one man - has other ideas and want to throw a mental hiccup in everyone's plan in the form of serendipity. 
+
+--------
 
 ## Chapter 1 - Burgled
 
